@@ -54,3 +54,18 @@
 
 	</div>
 </div>
+
+<div class="section no-pad-bot" id="index-banner">
+	<div class="container">
+		<br><br>
+		<h1 class="header center red-text">Codeigniter</h1>
+		<div class="row center">
+			<h5 class="header col s12 light">CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.</h5>
+		</div>
+		<div class="row center">
+			<a href="http://www.codeigniter.com/" id="download-button" class="btn-large waves-effect waves-light red">Take a look!</a>
+		</div>
+		<br><br>
+
+	</div>
+</div>

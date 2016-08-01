@@ -5,7 +5,6 @@ class Static_pages extends MY_Controller {
 
 	public function index()
 	{
-		die('????');
 		$this->layout('about',[]);
 	}
 
