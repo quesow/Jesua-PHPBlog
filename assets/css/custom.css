@@ -1,0 +1,10 @@
+#logo-container {
+    width: 200px;
+    height: 64px;
+    overflow: hidden;
+}
+
+#logo-container > img {
+    width: 400px;
+    margin: -145px 0 0 -100px;
+}
