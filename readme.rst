@@ -1,3 +1,9 @@
+Jesua-PHP Blog
+Blog based on PHP framework, Codeigniter
+
+Heroku deploy:
+https://cryptic-mountain-50096.herokuapp.com/
+
 ###################
 What is CodeIgniter
 ###################
